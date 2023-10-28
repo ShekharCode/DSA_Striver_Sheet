@@ -2,5 +2,7 @@
 using namespace std;
 
 int main(){
-  cout<<"Raja Shekhar"<<endl;
+  int x,y;
+  cin>>x>>y;
+  cout<<x<<y<<endl;
 }
